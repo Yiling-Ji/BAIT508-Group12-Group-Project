@@ -8,4 +8,4 @@ It includes our analysis and results for the group project.
 ## How to run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yiling-Ji/Group-Project.git
+   git clone https://github.com/Yiling-Ji/BAIT508-Group12-Group-Project.git
